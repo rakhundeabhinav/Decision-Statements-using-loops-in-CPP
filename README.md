@@ -6,13 +6,13 @@ To study and implement the use of decision making statements combined with loops
 
 📚 Theory
 
-C++ provides:
+==> C++ provides:
 
-Decision statements (if, else, switch) for making logical choices.
+==> Decision statements (if, else, switch) for making logical choices.
 
-Loops (for, while, do...while) to repeat a set of instructions.
+==> Loops (for, while, do...while) to repeat a set of instructions.
 
-Combining both allows us to handle real-life logic inside loops, enabling dynamic and interactive program flows.
+==> Combining both allows us to handle real-life logic inside loops, enabling dynamic and interactive program flows.
 
 
 🧑‍💻 Programs and Descriptions:
