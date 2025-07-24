@@ -16,6 +16,7 @@ Combining both allows us to handle real-life logic inside loops, enabling dynami
 
 
 🧑‍💻 Programs and Descriptions:
+
 🔹Password Lock – Keeps asking for the password until the correct one is entered.
 
 🔹Print Even Numbers – Prints all even numbers from 1 to a given number.
