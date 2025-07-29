@@ -1,3 +1,6 @@
+//Abhinav Rakhunde
+//PRN:24070123001
+
 #include<iostream>
 using namespace std;
 
@@ -11,3 +14,12 @@ int main() {
     }
     return 0;
 }
+/* OUTPUT:
+
+* 
+* *
+* * *
+* * * *
+* * * * *
+
+*/
